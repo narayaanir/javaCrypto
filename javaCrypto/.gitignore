@@ -1,0 +1,12 @@
+/Attack.class
+/AttackData.class
+/BlockCipher.class
+/BlockCipherIface.class
+/Decrypt.class
+/DecryptData.class
+/DecryptFile.class
+/Encrypt.class
+/EncryptData.class
+/EncryptFile.class
+/Threefish.class
+/bin
